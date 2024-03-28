@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameHandler
+  - wall
+  - watch
+  - present
+  - past
+  - future
+  - PauseMenuSlider
+  - Checkpoint
+  - enemy
+  - watchWall
+  - watchKey
+  - pot_present
+  - pot_past
+  - pot_future
+  - laser
+  - time2
+  - Crate
+  - time3
+  - crate_2
+  - idWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - objects
+  - 
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: objects
+    uniqueID: 4286492277
+    locked: 0
+  - name: player
+    uniqueID: 1525619437
+    locked: 0
